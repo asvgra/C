@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\MyForm.h(303,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\MyForm.h(365,45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\MyForm.h(373,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\MyForm.h(376,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\MyForm.cpp(8,21): warning C4102: Kursovaia_RAB_FORMS: неиспользованная метка
+  Informait.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kursovaia_RAB_FORMS.vcxproj -> C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\Kursovaia_RAB_FORMS.exe

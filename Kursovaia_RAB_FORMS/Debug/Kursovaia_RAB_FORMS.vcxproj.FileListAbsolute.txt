@@ -1,0 +1,14 @@
+C:\Users\анастасия\Desktop\Курсач_ТИУ\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\Kursovaia_RAB_FORMS.vcxproj.AssemblyReference.cache
+C:\Users\анастасия\Desktop\Курсач_ТИУ\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\Kursovaia_RAB_FORMS.exe
+C:\Users\анастасия\Desktop\Курсач_ТИУ\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\KursovaiaRABFORMS.MyForm.resources
+C:\Users\анастасия\Desktop\Курсач_ТИУ\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\Kursovaia_RAB_FORMS.vcxproj.GenerateResource.cache
+C:\Users\анастасия\Desktop\Курсач_ТИУ\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\KursovaiaRABFORMS.Informait.resources
+C:\Users\анастасия\Desktop\Курсач_ТИУ\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\KursovaiaRABFORMS.MyFormInform.resources
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\Kursovaia_RAB_FORMS.vcxproj.AssemblyReference.cache
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\KursovaiaRABFORMS.Informait.resources
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\KursovaiaRABFORMS.MyForm.resources
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\KursovaiaRABFORMS.MyFormInform.resources
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\Kursovaia_RAB_FORMS.vcxproj.GenerateResource.cache
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\Kursovaia_RAB_FORMS.exe
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\KursovaiaRABFORMS.MyFormInform1.resources
+C:\Users\анастасия\Desktop\Proekt_Forms\Kursovaia_RAB_FORMS\Debug\KursovaiaRABFORMS.MyFormKopu.resources
